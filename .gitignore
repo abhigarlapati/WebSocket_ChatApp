@@ -1,0 +1,23 @@
+# Ignore Maven & Gradle build files
+/target/
+/*.jar
+/*.war
+/.mvn/
+!mvnw
+!mvnw.cmd
+
+# IntelliJ
+/.idea/
+*.iml
+
+# Eclipse
+/.classpath
+/.project
+/.settings/
+
+# VS Code
+/.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
